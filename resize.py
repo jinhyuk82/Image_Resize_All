@@ -1,3 +1,5 @@
+"""This is a program for resizing."""
+
 import cv2
 import os
 
